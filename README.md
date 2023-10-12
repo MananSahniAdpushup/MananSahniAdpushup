@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MananSahniAdpushup
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently a student and an intern at Adpushup Softwares India Private Limited.
+- 🌱 I’m currently a Full Stack Developer at Adpushup Softwares India Private Limited.
 - 💞️ I’m looking to collaborate on Open Source Web Dev projects and make my own Software Development Projects
 - 📫 How to reach me Email: manan.sahni@adpushup.com
 
